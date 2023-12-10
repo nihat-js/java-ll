@@ -9,7 +9,7 @@ class Student implements  IStudent {
 
   }
 
-  void takeLesson() {
+  public void takeLesson() {
 
   }
 
