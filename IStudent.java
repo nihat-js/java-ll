@@ -1,0 +1,4 @@
+interface  IStudent {
+  void takeLesson();
+
+}
